@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 uncertain_ground_truth/
+.DS_Store
